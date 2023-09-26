@@ -226,6 +226,8 @@ Generics
 182 . How can we restrict Generics to a subclass of particular class?
 183 . How can we restrict Generics to a super class of particular class?
 184 . Can you give an example of a generic method?
+
+
 Multi threading
 185 . What is the need for threads in Java?
 186 . How do you create a thread?
@@ -250,7 +252,9 @@ Multi threading
 205 . What is the use of notify method?
 206 . What is the use of notifyall method?
 207 . Can you write a synchronized program with wait and notify methods?
+
 Functional Programming - Lamdba expressions and Streams
+
 208 . What is functional programming?
 209 . Can you give an example of functional programming?
 210 . What is a stream?
